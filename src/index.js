@@ -45,7 +45,7 @@ function displayCatInfo(catData) {
   });
 }
 
-и;
+
 breedSelect.addEventListener('change', () => {
   const selectedBreedId = breedSelect.value;
 
